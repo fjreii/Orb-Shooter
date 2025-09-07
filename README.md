@@ -67,3 +67,8 @@ This game demonstrates what can be achieved with **core web technologies** alone
    
 2. Open index.html in your browser
 3. Play!
+
+---
+
+## 🤖 AI Support
+AI was used in this project for generating code and making documentation. Using IBM Granite.
